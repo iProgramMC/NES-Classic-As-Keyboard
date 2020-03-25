@@ -16,3 +16,5 @@ Actually, you do not even **need** to use it with an NES emulator -- everything 
 
 ## End note
 I built this mainly for myself - I've always been interested in porting input hardware to other protocols, and this is a good starting point. You can use this for whatever you please, just make sure to credit the original author if you decide to make changes or sell this software package.
+
+NOTE: I am not liable for any damage that you cause to your hardware by using this software. I am also not required to assist you with the software.
